@@ -1,1 +1,1 @@
-'These commands run bash on these scripts'
+My Readme for shell basics task

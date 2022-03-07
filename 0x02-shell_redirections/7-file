@@ -1,2 +1,2 @@
-$!/bin/bash
-echo "Best School" > "\\\\'\"Best School\"\'\\\$\[1;2P?\\\\\*:)"
+#!/bin/bash
+echo "Holberton School" | cat > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Best School[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Bestschool[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[" | cat > '\*\\'\''"BestSc[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D S[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchool" | cat > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'

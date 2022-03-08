@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-za-z' 'N-ZA-Mn-za-m'
+tr 'A-za-z' 'N-[D[D[D[D[D[D[D[Z[C[C[C[C[C[C[C[CZA-Mn-za-m'
